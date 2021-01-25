@@ -1,1 +1,1 @@
-# queens-gambit-challenge
+# Queen's Gambit Data Visualization Challenge
